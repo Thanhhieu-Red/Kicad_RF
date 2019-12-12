@@ -67,3 +67,4 @@ Simply launch the fotprint wizard and select the uwave tool:
 
 ![Via Teardrops Generator](resources/extras/teardrops-help.png?raw=true "teardrops")
 
+## C:\Program Files\KiCad\share\kicad\scripting\plugins
